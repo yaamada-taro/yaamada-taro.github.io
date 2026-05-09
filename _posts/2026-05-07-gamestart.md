@@ -17,4 +17,4 @@ categories: [雑記]
 
 ![アーチザン氏](/assets/images/grayzone-warfare/20260507222841_1.jpg)
 
-いきなり攻撃的な依頼主
+いきなり攻撃的な依頼主もいたりする。
