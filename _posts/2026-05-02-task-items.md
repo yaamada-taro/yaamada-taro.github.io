@@ -19,3 +19,6 @@
 
 ボスが持っていたり軍施設の雑魚が持っていたり入手経路いろいろ。
 ナリス、ミッドナイトサファイア、タイガーベイの軍事部屋あたりからもスポーンしてそう。
+
+![AZART P1 無線機](/assets/images/grayzone-warfare/gw040-taskitem-azartp1.png)
+
