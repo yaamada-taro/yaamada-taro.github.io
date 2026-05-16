@@ -39,7 +39,7 @@ categories: [雑記]
 タイガーベイの金庫からドロップを確認。
 軍事施設でも手に入りそうではある。
 
-## ホワイトリチウムグリース (WHITE LITHIUM GREASE)
+## アーチザン：傭兵配達サービス (ホワイトリチウムグリース) (WHITE LITHIUM GREASE)
 
 [![ホワイトリチウムグリース](/assets/images/grayzone-warfare/gw040-taskitem-white-lithium-grease.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-white-lithium-grease.jpg)
 
