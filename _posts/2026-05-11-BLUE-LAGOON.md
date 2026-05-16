@@ -21,6 +21,9 @@ categories: [雑記]
 
 死んでも失敗にならないのでタスクだけ受けておいて遭遇出来るまで放置しておきたくなる。
 
+[![モヒカンのモブ](/assets/images/grayzone-warfare/gw040-task-deepwaters-hokuto.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-deepwaters-hokuto.jpg)
+ボスっぽいモヒカンが居るけど雑魚敵なんですって
+
 ## ガニー：行方不明の少女 (LOST GIRL)
 
 * シファ・ラクンモーテル(タスクのヒント写真に写っている場所)の蹴破ることが出来る部屋のベッドにある予定表を確認する
