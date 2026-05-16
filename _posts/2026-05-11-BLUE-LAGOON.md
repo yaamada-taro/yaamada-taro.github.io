@@ -37,5 +37,5 @@ categories: [雑記]
 [![味方の死体](/assets/images/grayzone-warfare/gw040-task-lostgirl-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lostgirl-deadbody.jpg)
 事務所前の味方部隊の死体を調べる
 
-[![ヤバいノート(/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg)
+[![ヤバいノート](/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg)
 テント前のノートを確認する
