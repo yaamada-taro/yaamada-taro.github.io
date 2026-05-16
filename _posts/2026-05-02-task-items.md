@@ -22,6 +22,7 @@
 ![AZART P1 無線機](/assets/images/grayzone-warfare/gw040-taskitem-azartp1.png)
 
 ボスが持っていたり軍施設の雑魚が持っていたり入手経路いろいろ。
+逆にここでよく見るとかが無いので普段から集めておかないと困りそうな予感。
 ナリス、ミッドナイトサファイア、タイガーベイの軍事部屋あたりからもスポーンしてそう。
 
 ## 強化軍用ノートパソコン
@@ -30,5 +31,13 @@
 
 タイガーベイの金庫からドロップを確認。
 軍事施設でも手に入りそうではある。
+
+## ホワイトリチウムグリース (WHITE LITHIUM GREASE)
+
+[![ホワイトリチウムグリース](/assets/images/grayzone-warfare/gw040-taskitem-white-lithium-grease.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-white-lithium-grease.jpg)
+
+ミッドナイトサファイア本館2F~4Fあたりの小部屋でよく見かける。
+地味に重いのでマラソン中に拾いづらい。
+
 
 
