@@ -12,6 +12,8 @@
 
 ## 硫酸、水浄化タブレット
 
+[![水浄化タブレット](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg)
+
 タイガーベイ東側の民兵からドロップすることを確認。バンパ、ブルーラグーンの雑魚もドロップするらしいが未確認。
 また、ミッドナイトサファイアの従業員オフィス内でたまに見かけるのでサファイアマラソンの巡回ルートに追加しておくと硫酸と合わせて見つけやすそう。
 
@@ -21,4 +23,12 @@
 
 ボスが持っていたり軍施設の雑魚が持っていたり入手経路いろいろ。
 ナリス、ミッドナイトサファイア、タイガーベイの軍事部屋あたりからもスポーンしてそう。
+
+## 強化軍用ノートパソコン
+
+[![強化軍用ノートパソコン](/assets/images/grayzone-warfare/gw040-taskitem-reinforced-military-laptop.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-reinforced-military-laptop.jpg)
+
+タイガーベイの金庫からドロップを確認。
+軍事施設でも手に入りそうではある。
+
 
