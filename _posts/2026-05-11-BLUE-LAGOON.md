@@ -27,3 +27,12 @@ categories: [雑記]
 * ブルーラグーン事務所前の死体を調べる
 * テントそばに落ちている手帳（ヤバいノート）を持って帰る。
   * テントのそばに触れるだけで大出血起こす有刺鉄線が張ってあるのですがそこは大丈夫なんですかね。
+ 
+[![予定表](/assets/images/grayzone-warfare/gw040-task-lostgirl-schedule.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lostgirl-schedule.jpg)
+予定表を調べる
+
+[![味方の死体](/assets/images/grayzone-warfare/gw040-task-lostgirl-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lostgirl-deadbody.jpg)
+事務所前の味方部隊の死体を調べる
+
+[![ヤバいノート(/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg)
+テント前のノートを確認する
