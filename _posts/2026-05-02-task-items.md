@@ -2,7 +2,6 @@
 title: タスクアイテム
 date: 2026-05-02 18:00:00 +0900
 tags: [日記,ゲーム,Grayzone Warfare]
-categories: [雑記]
 ---
 
 # タスクで集めるアイテム
