@@ -40,7 +40,10 @@
 * 南の小屋で手紙を取得してアーチザンに渡す
 
 [![死体](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-deadbody.jpg)
+死体を確認
+
 [![手紙](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-letter.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-letter.jpg)
+小屋の棚に手紙があるので回収する
 
 ## アーチザン：最後のフライト (LAST FLIGHT)
 
