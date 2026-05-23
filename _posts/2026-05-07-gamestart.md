@@ -2,7 +2,6 @@
 title: ミスラスに転生しました
 date: 2026-05-06 22:20:00 +0900
 tags: [日記,ゲーム]
-categories: [雑記]
 ---
 
 ![かっこいいタイトル画像](/assets/images/grayzone-warfare/20260507215830_1.jpg)
