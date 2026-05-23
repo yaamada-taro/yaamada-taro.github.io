@@ -2,7 +2,6 @@
 title: BLUE LAGOON
 date: 2026-05-11 18:00:00 +0900
 tags: [日記,ゲーム,Grayzone Warfare]
-categories: [雑記]
 ---
 
 # ブルーラグーン開放されたのでタスク進めましょう
