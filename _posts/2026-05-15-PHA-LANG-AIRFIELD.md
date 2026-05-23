@@ -39,7 +39,14 @@
 * 工事現場で死体を確認
 * 南の小屋で手紙を取得してアーチザンに渡す
 
+[![死体](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-deadbody.jpg)
+[![手紙](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-letter.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-letter-from-beyond-letter.jpg)
+
 ## アーチザン：最後のフライト (LAST FLIGHT)
 
 リコ・サバンを探す。
 墜落現場のそばの死体を調べて終了。
+
+[![リコサバン](/assets/images/grayzone-warfare/gw040-task-last-flight-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-last-flight-deadbody.jpg)
+リコサバン氏
+
