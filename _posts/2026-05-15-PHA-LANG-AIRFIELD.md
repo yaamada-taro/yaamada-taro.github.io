@@ -10,6 +10,21 @@
 * コンピュータにアクセスする
   * HDDを持って帰る
 
+[![SDカード回収](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-sdcard.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-sdcard.jpg)
+SDカードを回収する
+
+[![ターミナルのコンピュータ](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-hack-pc.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-hack-pc.jpg)
+ターミナルのコンピュータをハック
+
+[![コンピュータにアクセス](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-access-pc.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-access-pc.jpg)
+軍用コンピュータっぽいのにアクセス
+
+[![コンピュータにアクセス](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-access-db.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-access-db.jpg)
+ターミナルに戻ってコンピュータにアクセス
+
+[![HDDを取り出す](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-hdd.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-business-or-pleasure-hdd.jpg)
+HDDを回収する
+
 ## ガニー：スカイクローラー (SKY CLAWER)
 
 * 飛行場周辺の道路上の死体のそばに落ちているリストを読む
