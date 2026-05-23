@@ -10,11 +10,20 @@
 * コンピュータにアクセスする
   * HDDを持って帰る
 
-## ガニー：スカイクローラー
+## ガニー：スカイクローラー (SKY CLAWER)
 
 * 飛行場周辺の道路上の死体のそばに落ちているリストを読む
 * 南側の倉庫のテーブルを調べる
 * 飛行場ターミナルで日誌を回収する
+
+[![死体のそばのリスト](/assets/images/grayzone-warfare/gw040-task-skycrawlers-list.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-skycrawlers-list.jpg)
+飛行場周辺の道路上の死体
+
+[![倉庫の現場](/assets/images/grayzone-warfare/gw040-task-skycrawlers-drug.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-skycrawlers-drug.jpg)
+南側の倉庫のテーブル
+
+[![ファラン飛行場の日誌](/assets/images/grayzone-warfare/gw040-task-skycrawlers-drug.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-skycrawlers-drug.jpg)
+ターミナル建物内のコンピュータのそばにある日誌を回収
 
 ## ラボラット：謎の信号VI ()
 
