@@ -15,6 +15,17 @@
   * 軍事基地南東の電波塔
   * 軍事基地本部の南側
 
+[![北側入り口の監視カメラ](/assets/images/grayzone-warfare/gw040-task-hacker-camera-north-entrance.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hacker-camera-north-entrance.jpg)
+[![正面入り口の監視カメラ](/assets/images/grayzone-warfare/gw040-task-hacker-camera-main-entrance.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hacker-camera-main-entrance.jpg)
+[![HQ入り口の監視カメラ](/assets/images/grayzone-warfare/gw040-task-hacker-camera-headquarters.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hacker-camera-headquarters.jpg)
+[![監視塔入り口の監視カメラ](/assets/images/grayzone-warfare/gw040-task-hacker-camera-air-control-tower.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hacker-camera-air-control-tower.jpg)
+
+[![飛行場のラジオタワー](/assets/images/grayzone-warfare/gw040-task-hacker-hack-tower-airfield.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hacker-hack-tower-airfield.jpg)
+[![HQ屋上のアンテナ](/assets/images/grayzone-warfare/gw040-task-hacker-hack-headquarters.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hacker-hack-headquarters.jpg)
+[![暗号表](/assets/images/grayzone-warfare/gw040-task-hacker-code.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hacker-code.jpg)
+
+
+
 ## ターンコート：王者の貫禄 - ブランのAK-74N
 
 ナリスのボス、ブランを倒すのがトリガーっぽい
