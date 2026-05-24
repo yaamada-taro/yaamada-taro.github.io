@@ -1,3 +1,9 @@
+---
+title: ファラン飛行場
+date: 2026-05-15 18:00:00 +0900
+tags: [日記,ゲーム,Grayzone Warfare]
+---
+
 # ファラン飛行場
 
 ## ハンドシェイク： 仕事？それとも観光？(BUSINESS OR PLEASURE)
