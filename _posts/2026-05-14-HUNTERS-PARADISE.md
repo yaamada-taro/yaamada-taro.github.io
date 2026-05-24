@@ -38,13 +38,13 @@ tags: [日記,ゲーム,Grayzone Warfare]
 事務所で書類を調べる
 
 [![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-004-sticky.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-004-sticky.jpg)
-バンカーの入り口にロックが掛かっているので建物内の付箋を調べてコードを確認する
+バンカーの入り口にロックが掛かっているので奥の建物内の付箋を調べてコードを確認する
 
 [![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-005-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-005-deadbody.jpg)
 バンカーで死体の山を確認する
 
 [![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg)
-バンカー入り口目安
+バンカー入り口目安。捜索範囲が謎に広いので山のほうに探索しに行くとひどい目にあいそう
 
 ## ラボラットタスク：研究助手III (LAB ASSISTANT III)
 
