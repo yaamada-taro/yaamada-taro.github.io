@@ -19,6 +19,20 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * フォルダを探す
 * メモを探す
 
+[![トラックの荷台](/assets/images/grayzone-warfare/gw040-guns-and-ammo-001-laf.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-guns-and-ammo-001-laf.jpg)
+路上のトラックの荷台を調べる。
+
+その後、三か所偵察しろと言われるので指定されたエリアに近づく。
+
+[![ハンターズパラダイスの武器庫](/assets/images/grayzone-warfare/gw040-guns-and-ammo-002-weapon-box.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-guns-and-ammo-002-weapon-box.jpg)
+武器庫の箱をチェック
+
+[![メモ](/assets/images/grayzone-warfare/gw040-guns-and-ammo-003-memo.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-guns-and-ammo-003-memo.jpg)
+メモを調べる
+
+[![フォルダ](/assets/images/grayzone-warfare/gw040-guns-and-ammo-004-folder.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-guns-and-ammo-004-folder.jpg)
+フォルダを調べる
+
 ## ラボラット：猟奇島 (THE MOST DANGEROUS GAME)
 
 * アウリー・シボンサを探す
