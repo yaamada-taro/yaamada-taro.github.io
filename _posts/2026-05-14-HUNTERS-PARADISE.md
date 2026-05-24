@@ -29,7 +29,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * 裏の壕に入って死体の山を確認
 
 [![アウリー・シポンザ氏](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-001-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-001-deadbody.jpg)
-探し人ほぼ死んでる
+探し人ほぼ死んでる。死体を調べた後に手紙を回収する。
 
 [![冷蔵庫からサンプル](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-002-meat.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-002-meat.jpg)
 中央のレストランの冷蔵を調べる
