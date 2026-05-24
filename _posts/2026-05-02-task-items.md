@@ -25,6 +25,8 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 ## 硫酸、水浄化タブレット
 
+[![硫酸](/assets/images/grayzone-warfare/gw040-taskitem-acid.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-acid.jpg)
+
 [![水浄化タブレット](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg)
 
 タイガーベイ東側の民兵からドロップすることを確認。バンパ、ブルーラグーンの雑魚もドロップするらしいが未確認。
