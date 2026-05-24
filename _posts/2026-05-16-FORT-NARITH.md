@@ -69,12 +69,16 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 
 
-## アーチザン：廃棄物処理 ()
+## アーチザン：廃棄物処理 (GARBAGE DISPOSAL)
 
 ジャイ・タンを探す。死んでそうだけど。
 
 * 民家で手紙を取得
 * 廃棄場で死体を調べる
+
+## アーチザン：避難作戦の謎 (EVACUATION QUESTION)
+
+
 
 ## ガニー：観測任務 (OBSERVATION DUTY)
 
