@@ -28,7 +28,23 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * 事務所内の書類を確認
 * 裏の壕に入って死体の山を確認
 
+[![アウリー・シポンザ氏](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-001-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-001-deadbody.jpg)
+探し人ほぼ死んでる
 
+[![冷蔵庫からサンプル](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-002-meat.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-002-meat.jpg)
+中央のレストランの冷蔵を調べる
+
+[![事務所でVIPプログラム](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-003-vip.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-003-vip.jpg)
+事務所で書類を調べる
+
+[![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-004-sticky.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-004-sticky.jpg)
+バンカーの入り口にロックが掛かっているので建物内の付箋を調べてコードを確認する
+
+[![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-005-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-005-deadbody.jpg)
+バンカーで死体の山を確認する
+
+[![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg)
+バンカー入り口目安
 
 ## ラボラットタスク：研究助手III (LAB ASSISTANT III)
 
