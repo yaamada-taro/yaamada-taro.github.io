@@ -13,13 +13,15 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 いろいろな所で見かけるのでここでよく見るとかは不明。
 
-## バンシー：不思議な正義 II (MYSTERIOUS JUSTICE II)
+## バンシー：不思議な正義 II (MYSTERIOUS JUSTICE II) → 観光客のパスポート
+
+[![観光客のパスポート](/assets/images/grayzone-warfare/gw040-taskitem-passport.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-passport.jpg)
 
 観光客のパスポートを納品。
 割とどこからでも手に入るイメージ。
 ミッドナイトサファイア本館のテーブルや邸宅に素湧きしていることが多い印象。
 
-## バンシー：不思議な正義III (デジタルカメラ)
+## バンシー：不思議な正義III (MYSTERIOUS JUSTICE III) → デジタルカメラ
 
 ミッドナイトサファイア、タイガーベイなどいたる所で見つかるので楽。
 
