@@ -70,13 +70,26 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 ## ハンドシェイク：ナリス要塞の偵察 (FORT NARITH STROLL)
 
-ナリス要塞のゲート巡り
+ナリス要塞のゲート巡り。
+ゲートそばの櫓にはスナイパーが居るので注意。
 
 * 正面入り口
 * 北側入り口
 * 南側入り口
  * 遮蔽少な目で制圧するのがちょっときつい。スナイパーライフル持ってくれば一方的にやれるのでしょうか。
 * 東側入り口
+
+[![正面入り口](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-001-main.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-001-main.jpg)
+正面入り口
+
+[![北側入り口](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-002-north.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-002-north.jpg)
+北側入り口
+
+[![東側入り口](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-003-east.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-003-east.jpg)
+東側入り口
+
+[![全体図](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-004-map.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-fort-narith-stroll-004-map.jpg)
+巡回マップ。南側入り口のスクショ忘れる。
 
 ## ハンドシェイク：情報社会 (THE MORE THE MERRIER)
 
