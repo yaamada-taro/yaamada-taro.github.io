@@ -68,14 +68,6 @@ tags: [日記,ゲーム,Grayzone Warfare]
 [![1F書類](/assets/images/grayzone-warfare/gw040-task-wanted-man-005-file-1F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-wanted-man-005-file-1F.jpg)
 本部1Fのデスクの上に書類
 
-## ハンドシェイク：情報社会 (THE MORE THE MERRIER)
-
-* 兵舎エリアにランダムで配置される書類を持って帰る
- * 配置場所は数パターンあるみたいなので各部屋を捜索して緑のフォルダを探す
-
-[![書類](/assets/images/grayzone-warfare/gw040-task-wanted-man-005-file-1F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-the-more-the-merrier-001-file.jpg)
-A棟で発見したときのスクショ
-
 ## ハンドシェイク：ナリス要塞の偵察 (FORT NARITH STROLL)
 
 ナリス要塞のゲート巡り
@@ -85,6 +77,14 @@ A棟で発見したときのスクショ
 * 南側入り口
  * 遮蔽少な目で制圧するのがちょっときつい。スナイパーライフル持ってくれば一方的にやれるのでしょうか。
 * 東側入り口
+
+## ハンドシェイク：情報社会 (THE MORE THE MERRIER)
+
+* 兵舎エリアにランダムで配置される書類を持って帰る
+ * 配置場所は数パターンあるみたいなので各部屋を捜索して緑のフォルダを探す
+
+[![書類](/assets/images/grayzone-warfare/gw040-task-wanted-man-005-file-1F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-the-more-the-merrier-001-file.jpg)
+A棟で発見したときのスクショ
 
 ## ラボラット：変化の探究者 (SEEKER OF CHANGE)
 
