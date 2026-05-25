@@ -53,6 +53,12 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * 本部エリア1Fと2Fのコンピュータを調べる
 * 本部エリア1Fと3Fにある書類を回収して報告
 
+[![監獄内の書類](/assets/images/grayzone-warfare/gw040-task-wanted-man-001-folder.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-wanted-man-001-folder.jpg)
+[![1Fコンピュータ](/assets/images/grayzone-warfare/gw040-task-wanted-man-002-computer-1F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-wanted-man-002-computer-1F.jpg)
+[![2Fコンピュータ](/assets/images/grayzone-warfare/gw040-task-wanted-man-003-computer-2F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-wanted-man-003-computer-2F.jpg)
+[![3F書類](/assets/images/grayzone-warfare/gw040-task-wanted-man-004-file-3F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-wanted-man-004-file-3F.jpg)
+[![1F書類](/assets/images/grayzone-warfare/gw040-task-wanted-man-005-file-1F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-wanted-man-005-file-1F.jpg)
+
 ## ハンドシェイク：情報社会 (THE MORE THE MERRIER)
 
 * 兵舎にランダムで配置される書類を持って帰る
