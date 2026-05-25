@@ -83,7 +83,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * 兵舎エリアにランダムで配置される書類を持って帰る
  * 配置場所は数パターンあるみたいなので各部屋を捜索して緑のフォルダを探す
 
-[![書類](/assets/images/grayzone-warfare/gw040-task-wanted-man-005-file-1F.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-the-more-the-merrier-001-file.jpg)
+[![書類](/assets/images/grayzone-warfare/gw040-task-the-more-the-merrier-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-the-more-the-merrier-001-file.jpg)
 A棟で発見したときのスクショ
 
 ## ラボラット：変化の探究者 (SEEKER OF CHANGE)
