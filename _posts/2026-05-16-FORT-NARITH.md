@@ -201,4 +201,14 @@ A棟で発見したときのスクショ
 ナリスのボス、ブランを倒すのがトリガーっぽい
 
 * ナリス本部、作戦指令室でHDDを取得
- * 作戦指令室の入り方が面倒なのと、ボスドロップのカードが必要になるので漁りに来た高ランクプレイヤーが開けてくれるのを待っても良さそう
+ * 作戦指令室の入り方が面倒なのと、ボスドロップのカードが必要になるので漁りに来た高ランクプレイヤーが開けてくれるのを待っても良さそう。空いてないならサーバージャンプしたり。
+* ファラン飛行場南、グラウンドゼロ付近のLAFチェックポイントでUSBを回収
+* 製材所東、グラウンドゼロ付近のLAFチェックポイントでUSBを回収
+
+指令室でHDDを回収
+
+[![USBその１](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-001-gz.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-001-gz.jpg)
+ファラン飛行場南、グラウンドゼロ近くのキャンプでUSBを回収
+
+[![USBその２](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-002-gz.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-002-gz.jpg)
+製材所東、グラウンドゼロ近くのキャンプでUSBを回収
