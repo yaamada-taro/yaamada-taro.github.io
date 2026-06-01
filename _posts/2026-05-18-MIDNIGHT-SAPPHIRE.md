@@ -17,11 +17,17 @@
 ゴルフクラブを回収する。
 ハンドシェイクかターンコートの選択タスク。
 
+[![死体](/assets/images/grayzone-warfare/gw040-task-priceless-possessions-001-item.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-priceless-possessions-001-item.jpg)
+ゴルフクラブを探す
+
 ## ハンドシェイク：愚かなアイデア (BAD IDEA)
 
 ## ハンドシェイク：残されたものII (LEFT BEHIND II)、ガニー：最後のお別れII (LAST FAREWELL II)
 
 死体探し。ガニーを選択する場合は追跡装置が必要。
+
+[![死体](/assets/images/grayzone-warfare/gw040-task-left-behind-II-001-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-left-behind-II-001-deadbody.jpg)
+ゴルフ場に放置された死体
 
 ## アーチザン：ガールズ・ジャスト・ワナ・ハブ・ファン (GIRLS JUST WANNA HAVE FUN)
 
