@@ -214,3 +214,4 @@ A棟で発見したときのスクショ
 製材所東、グラウンドゼロ近くのキャンプでUSBを回収
 
 [![HDD](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-003-hdd.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-003-hdd.jpg)
+フォートナリス本部2Fの指令室でHDDを回収。指令室の入り方がとても分かりにくい。
