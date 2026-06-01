@@ -12,6 +12,10 @@
 * 邸宅でコンピュータにアクセス
 * 別の邸宅で書類を回収
 
+[![死体](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-001-dead-body.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-001-dead-body.jpg)
+[![ブリーフケース](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-002-case.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-002-case.jpg)
+[![コンピュータ](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-003-pc.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-003-pc.jpg)
+[![書類](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-004-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-004-file.jpg)
 ## ハンドシェイク：大切ななくしもの (PRICELESS POSSESSIONS)、ターンコート：ラマンのゴルフスター (LOCAL GOLF STAR)
 
 ゴルフクラブを回収する。
