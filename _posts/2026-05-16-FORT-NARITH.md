@@ -212,3 +212,5 @@ A棟で発見したときのスクショ
 
 [![USBその２](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-002-gz.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-002-gz.jpg)
 製材所東、グラウンドゼロ近くのキャンプでUSBを回収
+
+[![HDD](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-003-hdd.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-003-hdd.jpg)
