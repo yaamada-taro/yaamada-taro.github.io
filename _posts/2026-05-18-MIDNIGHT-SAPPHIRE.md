@@ -69,6 +69,8 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 * イン・ヴィレイサックを探す
 
+[![イン・ヴィレイサック](/assets/images/grayzone-warfare/gw040-task-girls-just-wanna-have-fun-001-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-girls-just-wanna-have-fun-001-deadbody.jpg)
+
 ## ハンドシェイク：掃討作戦IV (COMBAT SWEEP IV)
 
 ## ハンドシェイク：パパラッチ (PAPARAZZI)
