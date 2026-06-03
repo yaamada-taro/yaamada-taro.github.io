@@ -6,7 +6,8 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 # ミッドナイトサファイア
 
-マラソンコース
+マラソンコース。
+鍵が必要なタスクが多いので何周か金稼ぎしながら必要な鍵を集めておくのがよさそう。
 
 ## ガニー：敵を知るべし (KNOW YOUR ENEMY)
 
@@ -26,7 +27,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 本館2Fのバーカウンターでブリーフケースを回収
 
 [![コンピュータ](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-003-pc.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-003-pc.jpg)
-アンナ邸でコンピュータにアクセス（要鍵）
+アンナ邸でコンピュータにアクセス（要鍵：アンナ・ジェイナ邸の鍵）
 
 [![書類](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-004-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-004-file.jpg)
 キャサリン邸で書類を回収（要鍵）
@@ -38,7 +39,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * 車のトランクから必要なツールを回収
 * ゴルフクラブのコンピュータにアクセス
 * ゲート付近のコンピュータにアクセス
-* ホテル本館2Fのコンピュータにアクセス(要鍵)
+* ホテル本館2Fのコンピュータにアクセス(要鍵：ホテルの備品戸棚のキーカード)
 * グランドキーパーズデポのサーバーにアクセス
 
 ## ハンドシェイク：大切ななくしもの (PRICELESS POSSESSIONS)、ターンコート：ラマンのゴルフスター (LOCAL GOLF STAR)
@@ -68,7 +69,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 ## ハンドシェイク：パパラッチ (PAPARAZZI)
 
-* ホテル本館2Fの机の上のメモを読む (要鍵)
+* ホテル本館2Fの机の上のメモを読む (要鍵：ホテルの備品戸棚のキーカード)
 * 北部にあるホテル施設で拷問跡を確認
 
 ## ハンドシェイク：マッドネス・サファイア (MADNIGHT SAFFHIRE)
