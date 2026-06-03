@@ -44,7 +44,24 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * ゴルフクラブのコンピュータにアクセス
 * ゲート付近のコンピュータにアクセス
 * ホテル本館2Fのコンピュータにアクセス(要鍵：ホテルの備品戸棚のキーカード)
-* グランドキーパーズデポのサーバーにアクセス
+* グランドキーパーズデポのサーバーをハッキング
+
+[![ツール](/assets/images/grayzone-warfare/gw040-task-memory-leak-001-trunk.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-memory-leak-001-trunk.jpg)
+車のトランクからツールを手に入れる
+
+[![ノートブック](/assets/images/grayzone-warfare/gw040-task-memory-leak-002-notebook.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-memory-leak-002-notebook.jpg)
+ゲート前のテントにあるノートパソコンにアクセス
+
+[![コンピュータ](/assets/images/grayzone-warfare/gw040-task-memory-leak-003-computer.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-memory-leak-003-computer.jpg)
+ゴルフクラブのコンピュータにアクセス
+
+[![コンピュータ](/assets/images/grayzone-warfare/gw040-task-memory-leak-004-computer.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-memory-leak-004-computer.jpg)
+本館2Fのコンピュータにアクセス
+
+[![サーバー](/assets/images/grayzone-warfare/gw040-task-memory-leak-005-server.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-memory-leak-005-server.jpg)
+グランドキーパーズデポでサーバーをハッキング
+
+
 
 ## ハンドシェイク：大切ななくしもの (PRICELESS POSSESSIONS)、ターンコート：ラマンのゴルフスター (LOCAL GOLF STAR)
 
