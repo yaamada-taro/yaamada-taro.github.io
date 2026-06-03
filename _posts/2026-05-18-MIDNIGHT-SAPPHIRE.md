@@ -78,6 +78,9 @@ tags: [日記,ゲーム,Grayzone Warfare]
 * ホテル本館2Fの机の上のメモを読む (要鍵：ホテルの備品戸棚のキーカード)
 * 北部にあるホテル施設で拷問跡を確認
 
+[![メモ](/assets/images/grayzone-warfare/gw040-task-paparazzi-001-memo.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-paparazzi-001-memo.jpg)
+[![拷問跡](/assets/images/grayzone-warfare/gw040-task-paparazzi-002-torture.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-paparazzi-002-torture.jpg)
+
 ## ハンドシェイク：マッドネス・サファイア (MADNIGHT SAFFHIRE)
 
 ## ラボラット：謎の信号VIII (CRYPTIC SIGNALS VIII)
