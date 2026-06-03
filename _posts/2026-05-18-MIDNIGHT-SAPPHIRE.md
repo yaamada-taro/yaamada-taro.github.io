@@ -60,6 +60,10 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 ## アーチザン：ガールズ・ジャスト・ワナ・ハブ・ファン (GIRLS JUST WANNA HAVE FUN)
 
+翻訳めんどくさくなった説。
+
+* イン・ヴィレイサックを探す
+
 ## ハンドシェイク：掃討作戦IV (COMBAT SWEEP IV)
 
 ## ハンドシェイク：パパラッチ (PAPARAZZI)
