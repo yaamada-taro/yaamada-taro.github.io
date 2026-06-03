@@ -138,6 +138,8 @@ A棟で発見したときのスクショ
 
 ## アーチザン：消えた仲間 (MISSING COLLEAGUE)
 
+民家に入って書類を回収する
+
 [![逮捕状](/assets/images/grayzone-warfare/gw040-task-missing-colleague-001.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-missing-colleague-001.jpg)
 逮捕状を調べる。すぐそばにアーチザンっぽい肖像画が
 
