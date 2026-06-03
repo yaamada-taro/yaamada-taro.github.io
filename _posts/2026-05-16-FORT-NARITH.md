@@ -132,6 +132,10 @@ A棟で発見したときのスクショ
 [![燃料ゲージ](/assets/images/grayzone-warfare/gw040-task-neighborly-help-002-meter.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-neighborly-help-002-meter.jpg)
 すぐ近くに二つ目がある
 
+## ガニー：観測任務 (OBSERVATION DUTY)
+
+偵察チームの死体を探して終了
+
 ## ラボラット：謎の信号IV (CRYPTIC SIGNALS IV)
 
 測定装置探し
@@ -159,12 +163,6 @@ A棟で発見したときのスクショ
 * 民家で手紙を取得
 * 廃棄場で死体を調べる
 
-
-
-## ガニー：観測任務 (OBSERVATION DUTY)
-
-偵察チームの死体を探して終了
-
 ## ターンコート：ダブルリーク (DOUBLE EXPOSURE)
 
 この書類、どこに置けばいいんじゃいってなる案件。
@@ -184,7 +182,15 @@ A棟で発見したときのスクショ
 
 ## バンシー：世紀の大取引 (DEAL OF CENTURY)
 
-ナリス要塞のバンカーに潜入する
+
+
+## バンシー：武器配送の状況 (STATE OF WEAPON SHIPMENT)
+
+バンカーに侵入してコンピュータにアクセスする。
+位置としては射撃場の下あたり。
+
+[![コンピュータ](/assets/images/grayzone-warfare/gw040-task-state-of-weapon-shipment-001-computer.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-state-of-weapon-shipment-001-computer.jpg)
+コンピュータ
 
 ## ラボラット：毒を喰らわば (SPIT OUT THE POISON)、ターンコート：毒薬変じて(NAME YOUR POISON)
 
@@ -198,10 +204,6 @@ A棟で発見したときのスクショ
 ## アーチザン：避難作戦の謎 (EVACUATION QUESTION)、ターンコート：知るにふさわしい者 (IN THE RIGHT HANDS)
 
 管制塔から書類を回収。渡す対象はターンコートかアーチザン。
-
-## バンシー：武器配送の状況
-
-バンカーに侵入してコンピュータにアクセスする
 
 ## バルチャー：カメレオン - AK-308 (HT)
 
