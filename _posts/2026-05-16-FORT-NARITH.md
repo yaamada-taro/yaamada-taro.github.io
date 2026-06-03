@@ -122,6 +122,12 @@ A棟で発見したときのスクショ
 * 敵兵５人倒す
 * フラッシュドライブを回収
 
+[![フラッシュドライブ](/assets/images/grayzone-warfare/gw040-task-hustling-the-husler-001-usb.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hustling-the-husler-001-usb.jpg)
+フラッシュドライブを回収。小さすぎて普通にわからんて。
+
+[![回収BOX](/assets/images/grayzone-warfare/gw040-task-hustling-the-husler-002-box.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hustling-the-husler-002-box.jpg)
+ナリス要塞の外に出てBOXに隠す
+
 ## ガニー：隣人の助け (NEIGHBORLY HELP)
 
 二か所の燃料ゲージ調べる
