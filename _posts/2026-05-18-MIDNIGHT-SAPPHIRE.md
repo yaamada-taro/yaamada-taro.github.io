@@ -31,6 +31,16 @@ tags: [日記,ゲーム,Grayzone Warfare]
 [![書類](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-004-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-know-your-enemy-004-file.jpg)
 キャサリン邸で書類を回収（要鍵）
 
+## ラボラット：メモリリーク (MEMORY LEAK)
+
+実質危険エリア巡り。
+
+* 車のトランクから必要なツールを回収
+* ゴルフクラブのコンピュータにアクセス
+* ゲート付近のコンピュータにアクセス
+* ホテル本館2Fのコンピュータにアクセス
+* グランドキーパーズデポのサーバーにアクセス
+
 ## ハンドシェイク：大切ななくしもの (PRICELESS POSSESSIONS)、ターンコート：ラマンのゴルフスター (LOCAL GOLF STAR)
 
 ゴルフクラブを回収する。
