@@ -143,6 +143,15 @@ A棟で発見したときのスクショ
 [![逮捕状](/assets/images/grayzone-warfare/gw040-task-missing-colleague-001.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-missing-colleague-001.jpg)
 逮捕状を調べる。すぐそばにアーチザンっぽい肖像画が
 
+## アーチザン：消えた仲間II (MISSING COLLEAGUE II)
+
+本部3Fで書類を回収する。
+階段の攻防が難しめ。
+
+* ナリス要塞本部3Fで尋問記録を回収する
+
+[![SH尋問](/assets/images/grayzone-warfare/gw040-task-missing-colleague-II-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-missing-colleague-II-001-file.jpg)
+
 ## アーチザン：廃棄物処理 (GARBAGE DISPOSAL)
 
 ジャイ・タンを探す。死んでそうだけど。
@@ -173,13 +182,9 @@ A棟で発見したときのスクショ
 
 荷物運び
 
-
-
 ## バンシー：世紀の大取引 (DEAL OF CENTURY)
 
 ナリス要塞のバンカーに潜入する
-
-
 
 ## ラボラット：毒を喰らわば (SPIT OUT THE POISON)、ターンコート：毒薬変じて(NAME YOUR POISON)
 
@@ -190,18 +195,9 @@ A棟で発見したときのスクショ
  * ターンコートならタンクに毒を盛る
  * ラボラットなら毒をラボラットに渡す
 
-
-
 ## アーチザン：避難作戦の謎 (EVACUATION QUESTION)、ターンコート：知るにふさわしい者 (IN THE RIGHT HANDS)
 
 管制塔から書類を回収。渡す対象はターンコートかアーチザン。
-
-## アーチザン：消えた仲間II
-
-本部3Fで書類を回収する。
-階段の攻防が難しめ。
-
-* ナリス要塞本部3Fで尋問記録を回収する
 
 ## バンシー：武器配送の状況
 
