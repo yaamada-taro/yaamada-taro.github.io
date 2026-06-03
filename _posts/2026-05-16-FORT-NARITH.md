@@ -126,6 +126,12 @@ A棟で発見したときのスクショ
 
 二か所の燃料ゲージ調べる
 
+[![燃料ゲージ](/assets/images/grayzone-warfare/gw040-task-neighborly-help-001-meter.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-neighborly-help-001-meter.jpg)
+燃料ゲージその１
+
+[![燃料ゲージ](/assets/images/grayzone-warfare/gw040-task-neighborly-help-002-meter.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-neighborly-help-002-meter.jpg)
+すぐ近くに二つ目がある
+
 ## ラボラット：謎の信号IV (CRYPTIC SIGNALS IV)
 
 測定装置探し
