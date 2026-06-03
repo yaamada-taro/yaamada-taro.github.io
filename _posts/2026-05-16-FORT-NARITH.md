@@ -182,7 +182,7 @@ A棟で発見したときのスクショ
 
 ## バンシー：世紀の大取引 (DEAL OF CENTURY)
 
-
+管制塔から書類を持って帰る
 
 ## バンシー：武器配送の状況 (STATE OF WEAPON SHIPMENT)
 
