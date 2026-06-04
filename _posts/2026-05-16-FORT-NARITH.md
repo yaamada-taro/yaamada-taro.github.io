@@ -262,7 +262,7 @@ A棟で発見したときのスクショ
 
 管制塔から書類を回収。渡す対象はターンコートかアーチザン。
 
-
+[![戦闘機](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg)
 
 ## バルチャー：カメレオン - AK-308 (HT) - (CHAMELEON - AK-308 (HT))
 
