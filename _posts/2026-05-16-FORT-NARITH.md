@@ -204,6 +204,17 @@ A棟で発見したときのスクショ
 
 タスク承認時に追跡装置をもらえるので現地でタスクを受けることが出来ない。
 
+* 基地内の戦闘機に追跡装置を設置していく
+
+[![戦闘機](/assets/images/grayzone-warfare/gw040-task-jetn-marks-001-jet.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-jetn-marks-001-jet.jpg)
+戦闘機その１
+
+[![戦闘機](/assets/images/grayzone-warfare/gw040-task-jetn-marks-002-jet.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-jetn-marks-002-jet.jpg)
+戦闘機その２。どこかのバージョンからか敵が増量したのか格納庫の屋上にスナイパーが配置されるように。
+
+[![戦闘機](/assets/images/grayzone-warfare/gw040-task-jetn-marks-003-jet.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-jetn-marks-003-jet.jpg)
+戦闘機その３。ボス湧きスポットなので一応注意。
+
 
 
 ## ターンコート：所有権移行 ()
