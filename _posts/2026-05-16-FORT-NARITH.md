@@ -186,12 +186,16 @@ A棟で発見したときのスクショ
 
 [![SH尋問](/assets/images/grayzone-warfare/gw040-task-missing-colleague-II-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-missing-colleague-II-001-file.jpg)
 
+
+
 ## アーチザン：廃棄物処理 (GARBAGE DISPOSAL)
 
 ジャイ・タンを探す。死んでそうだけど。
 
 * 民家で手紙を取得
 * 廃棄場で死体を調べる
+
+
 
 ## ターンコート：ダブルリーク (DOUBLE EXPOSURE)
 
@@ -202,7 +206,8 @@ A棟で発見したときのスクショ
 
 ## バンシー：ジェット＆マーキング (JET'N'MARKS)
 
-タスク承認時に追跡装置をもらえるので現地でタスクを受けることが出来ない。
+タスク承認時に追跡装置をもらえるので現地でタスクを受けると追跡装置を受け取れない。
+拠点で追跡装置を受け取るか買うかしてからタスクを進める。
 
 * 基地内の戦闘機に追跡装置を設置していく
 
@@ -221,12 +226,16 @@ A棟で発見したときのスクショ
 
 荷物運び
 
+
+
 ## バンシー：世紀の大取引 (DEAL OF CENTURY)
 
 管制塔から書類を持って帰る
 
 [![書類](/assets/images/grayzone-warfare/gw040-task-deal-of-century-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-deal-of-century-001-file.jpg)
 アイテムの下に被っていることもあるのか
+
+
 
 ## バンシー：武器配送の状況 (STATE OF WEAPON SHIPMENT)
 
@@ -235,6 +244,8 @@ A棟で発見したときのスクショ
 
 [![コンピュータ](/assets/images/grayzone-warfare/gw040-task-state-of-weapon-shipment-001-computer.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-state-of-weapon-shipment-001-computer.jpg)
 コンピュータ
+
+
 
 ## ラボラット：毒を喰らわば (SPIT OUT THE POISON)、ターンコート：毒薬変じて(NAME YOUR POISON)
 
@@ -245,9 +256,13 @@ A棟で発見したときのスクショ
  * ターンコートならタンクに毒を盛る
  * ラボラットなら毒をラボラットに渡す
 
+
+
 ## アーチザン：避難作戦の謎 (EVACUATION QUESTION)、ターンコート：知るにふさわしい者 (IN THE RIGHT HANDS)
 
 管制塔から書類を回収。渡す対象はターンコートかアーチザン。
+
+
 
 ## バルチャー：カメレオン - AK-308 (HT) - (CHAMELEON - AK-308 (HT))
 
@@ -260,6 +275,8 @@ A棟で発見したときのスクショ
 
 [![雑誌](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg)
 雑誌を回収する
+
+
 
 ## ターンコート：王者の貫禄 - ブランのAK-74N (LIKE A BOSS - BURAN'S AK-74N)
 
