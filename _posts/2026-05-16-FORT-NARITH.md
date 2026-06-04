@@ -111,7 +111,9 @@ A棟で発見したときのスクショ
 
 * ナリス北部の村の民家で徴兵令状を確認
 * ナリス要塞の兵舎の部屋の張り紙を確認
-* 療養所2Fの手術室で死体を確認 (要鍵)
+* 療養所2Fの手術室で死体を確認 (要鍵：FN ICU)
+    * 手術室の鍵は療養所内で素湧きしていることがあるので鍵が開いていない場合は療養所内を探し回ることに…
+    * 足音を聞いて敵兵士が療養所2Fまで追跡してくるので敵気配に注意
 * 療養所2Fの事務室みたいな場所で書類を確認
 * さっきの手術室に戻って死体からサンプルを採取してラボラットに渡す
 
@@ -122,10 +124,10 @@ A棟で発見したときのスクショ
 兵舎で張り紙を確認
 
 [![被爆した死体](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-003-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-003-deadbody.jpg)
-手術室で死体を確認 (要鍵)
+療養所2F手術室で死体を確認 (要鍵：FN ICU)
 
 [![暴露](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-004-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-004-file.jpg)
-2Fの部屋で書類を確認
+療養所2Fの部屋で書類を確認
 
 [![サンプル](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-005-sample.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-005-sample.jpg)
 さっきの死体からサンプルを採取する
