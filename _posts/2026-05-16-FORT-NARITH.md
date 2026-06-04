@@ -142,6 +142,9 @@ A棟で発見したときのスクショ
 
 偵察チームの死体を探して終了
 
+[![死体](/assets/images/grayzone-warfare/gw040-task-observation-duty-001-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-observation-duty-001-deadbody.jpg)
+水たまり脇の死体を確認
+
 ## ラボラット：謎の信号IV (CRYPTIC SIGNALS IV)
 
 測定装置探し
