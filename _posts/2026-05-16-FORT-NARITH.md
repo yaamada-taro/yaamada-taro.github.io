@@ -115,7 +115,26 @@ A棟で発見したときのスクショ
 * 療養所2Fの事務室みたいな場所で書類を確認
 * さっきの手術室に戻って死体からサンプルを採取してラボラットに渡す
 
+[![徴兵令状](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-001-file.jpg)
+徴兵令状を確認
 
+[![張り紙](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-002-110.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-002-110.jpg)
+兵舎で張り紙を確認
+
+[![被爆した死体](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-003-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-003-deadbody.jpg)
+手術室で死体を確認 (要鍵)
+
+[![暴露](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-004-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-004-file.jpg)
+2Fの部屋で書類を確認
+
+[![サンプル](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-005-sample.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-005-sample.jpg)
+さっきの死体からサンプルを採取する
+
+[![謎電柱](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-006-ki.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-006-ki.jpg)
+手術室や死体に近づくと被爆するので療養所エリアで露骨に素湧きしているヨウ化カリウムを取っておく。
+
+[![謎電柱](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-007-light.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-007-light.jpg)
+おまけの謎電柱
 
 ## ハンドシェイク：ペテン師に罰を (HUSTLING THE HUSLER)
 
