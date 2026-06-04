@@ -101,3 +101,11 @@ tags: [日記,ゲーム,Grayzone Warfare]
 ## ハンドシェイク：マッドネス・サファイア (MADNIGHT SAFFHIRE)
 
 ## ラボラット：謎の信号VIII (CRYPTIC SIGNALS VIII)
+
+## バンシー：カメレオン (CHAMELEON - SIG MCX (GN))
+
+雑誌を回収してバンシーに渡すとMCXのカラーバリエーションを売ってくれるようになる。
+
+## バンシー：カメレオン (CHAMELEON - M700 (GC))
+
+雑誌を回収してバンシーに渡す。
