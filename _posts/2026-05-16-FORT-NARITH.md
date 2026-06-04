@@ -190,6 +190,9 @@ A棟で発見したときのスクショ
 
 管制塔から書類を持って帰る
 
+[![書類](/assets/images/grayzone-warfare/gw040-task-deal-of-century-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-deal-of-century-001-file.jpg)
+アイテムの下に被っていることもあるのか
+
 ## バンシー：武器配送の状況 (STATE OF WEAPON SHIPMENT)
 
 バンカーに侵入してコンピュータにアクセスする。
@@ -211,12 +214,17 @@ A棟で発見したときのスクショ
 
 管制塔から書類を回収。渡す対象はターンコートかアーチザン。
 
-## バルチャー：カメレオン - AK-308 (HT) - ()
+## バルチャー：カメレオン - AK-308 (HT) - (CHAMELEON - AK-308 (HT))
 
 監獄エリアの部屋に置いているマガジンを調べる。
 調べた後にもう一度調べることで雑誌を入手することができる。
-雑誌を回収して報告。
 
+* 雑誌を回収して報告。
+* バルチャー自体がランダム配置なのでいざ買おうとすると面倒。
+    * バルチャーがどこにいるか毎週更新しているWEBサイトがあったりする
+
+[![雑誌](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg)
+雑誌を回収する
 
 ## ターンコート：王者の貫禄 - ブランのAK-74N (LIKE A BOSS - BURAN'S AK-74N)
 
