@@ -9,7 +9,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 マラソンコース。
 鍵が必要なタスクが多いので何周か金稼ぎしながら必要な鍵を集めておくのがよさそう。
 
-## ハンドシェイク：大物釣り
+## ハンドシェイク：大物釣り (BIG FISH)
 
 
 
@@ -99,6 +99,18 @@ tags: [日記,ゲーム,Grayzone Warfare]
 [![拷問跡](/assets/images/grayzone-warfare/gw040-task-paparazzi-002-torture.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-paparazzi-002-torture.jpg)
 
 ## ハンドシェイク：マッドネス・サファイア (MADNIGHT SAFFHIRE)
+
+## ハンドシェイク：愚かなアイデア (BAD IDEA)
+
+## ハンドシェイク：リップアウト (LIP OUT)
+
+ドナルド・J・ドルトムンダーの失踪について調査
+
+## ハンドシェイク：失踪した男 (THE MAN WHO DISAPPEARED)
+
+## ガニー：隠し備品の報告V (CACHE REPORT V)
+
+探し物タスク
 
 ## ラボラット：謎の信号VIII (CRYPTIC SIGNALS VIII)
 
