@@ -11,13 +11,32 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 ## ハンドシェイク：大物釣り (BIG FISH)
 
-ルイーザ邸と本館をシャトルランするタスク。とてもめんどくさい。
+ルイーザ邸と本館をシャトルランするタスク。とてもめんどくさいし初見殺しが多い。
+金稼ぎでマラソンしているプレイヤーによる敵の殲滅がされていない本館は、侵入ルートによっては激しい銃撃戦が発生します。
 
 * ルイーザ邸のコンピュータにアクセス (要鍵)
 * ミッドナイトサファイア本館2Fでコンピュータの解読キーを探す
 * 再度ルイーザ邸のコンピュータにアクセス (要鍵)
-* また本館に戻り、4Fエリアから書類を二つ回収する
+* また本館に戻り、最上階エリアにて書類を二つ回収する
     * 書類の一つは隠し部屋のテーブルに置かれている。映画でありがちな隠しスイッチを押すことで隠し部屋が開く
+
+[![ノートPC](/assets/images/grayzone-warfare/gw040-task-big-fish-001-pc.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-001-pc.jpg)
+ルイーザ邸のノートPCにアクセス。外周に兵士が数人いるので先に倒しておいたほうが安心。
+
+[![ハードウェアキー](/assets/images/grayzone-warfare/gw040-task-big-fish-002-key.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-002-key.jpg)
+ハードウェアキーが必要らしいのでミッドナイトサファイア本館まで移動してロビーフロアの部屋でハードウェアキーを回収
+
+[![ノートPC](/assets/images/grayzone-warfare/gw040-task-big-fish-003-pc.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-003-pc.jpg)
+ハードウェアキーを回収した後ルイーザ邸に戻り、PCにアクセス
+
+[![書類](/assets/images/grayzone-warfare/gw040-task-big-fish-004-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-004-file.jpg)
+また本館に行けと言われるので本館最上階で書類を回収する
+
+[![隠し部屋のスイッチ](/assets/images/grayzone-warfare/gw040-task-big-fish-005-switch.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-005-switch.jpg)
+二つある書類のうちのひとつは隠し部屋にあるので、ボス部屋みたいな場所にある机の下にあるスイッチを押して隠し部屋を開ける。とっても初見殺し。
+
+[![書類](/assets/images/grayzone-warfare/gw040-task-big-fish-006-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-006-file.jpg)
+隠し部屋で書類を回収
 
 ## ガニー：敵を知るべし (KNOW YOUR ENEMY)
 
