@@ -33,7 +33,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 また本館に行けと言われるので本館最上階で書類を回収する
 
 [![隠し部屋のスイッチ](/assets/images/grayzone-warfare/gw040-task-big-fish-005-switch.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-005-switch.jpg)
-二つある書類のうちのひとつは隠し部屋にあるので、ボス部屋みたいな場所にある机の下にあるスイッチを押して隠し部屋を開ける。とっても初見殺し。
+二つある書類のうちのひとつは隠し部屋にあるので、最上階のボス部屋みたいな場所にある机の下にあるスイッチを押して隠し部屋を開ける。とっても初見殺し。
 
 [![書類](/assets/images/grayzone-warfare/gw040-task-big-fish-006-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-big-fish-006-file.jpg)
 隠し部屋で書類を回収
