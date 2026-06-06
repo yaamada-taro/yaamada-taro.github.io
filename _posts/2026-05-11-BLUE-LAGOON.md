@@ -16,6 +16,8 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 雑魚キルクエスト
 
+
+
 ## アーチザン：深淵 (DEEP WATERS)
 
 ボスキルタスク。
@@ -42,3 +44,9 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 [![ヤバいノート](/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lostgirl-book.jpg)
 テント前のノートを確認する
+
+
+
+## ハンドシェイク：問題解決屋 (PROBLEM SOLBER)
+
+ナムタベン東の敵を10人倒す
