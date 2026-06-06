@@ -64,14 +64,14 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 
 
-## バンシー：不思議な正義 (MYSTERIOUS JUSTICE) → 観光客の身分証
+## バンシー：不思議な正義 (MYSTERIOUS JUSTICE) → 観光客の身分証 (TOURIST ID CARD)
 
 観光客の身分証を納品。
 ミッドナイトサファイアの邸宅、ホテル本館から素湧きで手に入る印象がある。
 
 
 
-## バンシー：不思議な正義 II (MYSTERIOUS JUSTICE II) → 観光客のパスポート
+## バンシー：不思議な正義 II (MYSTERIOUS JUSTICE II) → 観光客のパスポート ()
 
 [![観光客のパスポート](/assets/images/grayzone-warfare/gw040-taskitem-passport.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-passport.jpg)
 
