@@ -95,6 +95,11 @@ tags: [日記,ゲーム,Grayzone Warfare]
 地味に重いのでマラソン中に拾いづらい。
 
 
+## バンシー：不思議な正義VI  (MYSTERIOUS JUSTICE VI) → 暗号化されたハードディスクドライブ ()
+
+本当に見つからなくて笑う。
+ミッドナイトサファイアのダイアル式金庫から出現を確認。
+黒いのと青いのがあるが青い方が対象らしいよ。
 
 ## バンシー：不思議な正義VIII (MYSTERIOUS JUSTICE VIII) → ワンタイムパッド用紙 (ONE-TIME PAD KEY SHEET)
 
