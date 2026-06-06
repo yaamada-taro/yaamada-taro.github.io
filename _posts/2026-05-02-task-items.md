@@ -51,7 +51,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 ミッドナイトサファイアの従業員事務所内の素湧き、タイガーベイ東部の民兵からのドロップなど。
 
 [![水浄化タブレット](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg)
-
+民兵がたまに持っていたり、バンパ長老部屋1Fの鍵部屋、ミッドナイトサファイア従業員事務所内からの素湧きで確認。
 
 
 ## アーチザン：傭兵配達サービス (MERCENARY DELIVERY SERVICE) → ホワイトリチウムグリース (WHITE LITHIUM GREASE)
@@ -62,15 +62,15 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 
 
-## アーチザン：傭兵配達サービス II (MERCENARY DELIVERY SERVICE II)
+## アーチザン：傭兵配達サービス II (MERCENARY DELIVERY SERVICE II) → 燃料容器 (FUEL CANISTER)
 
 燃料容器を納品。
 
 
 
-## アーチザン：傭兵配達サービス III () → アセチレンボンベ ()
+## アーチザン：傭兵配達サービス III (MERCENARY DELIVERY SERVICE III) → アセチレンボンベ (ACETYLENE CYLINDER)
 
-タイガーベイ西側のボスが出現する工場、タイガーベイモール内の改装中の部屋などで確認。
+タイガーベイ西側のボスが出現する工場、タイガーベイモール内の改装中の部屋などで確認。地味に重い。
 
 ## バンシー：不思議な正義 (MYSTERIOUS JUSTICE) → 観光客の身分証 (TOURIST ID CARD)
 
