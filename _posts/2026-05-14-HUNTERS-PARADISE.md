@@ -62,15 +62,34 @@ tags: [日記,ゲーム,Grayzone Warfare]
 [![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg)
 バンカー入り口目安。捜索範囲が謎に広いので山のほうに探索しに行くとひどい目にあいそう
 
+## ハンドシェイク：飼いならされたネズミ (DOMESTICATED RAT)
+
+内通者と落ち合う。死んでそうだけど。
+
+* ハンターズパラダイス南の小屋の張り紙を確認
+* 山小屋からスマホを回収して報告
+
 ## ガニー：自由の戦士 (FREEDOM FIGHTER)
 
-ジェイコブマレーはどうなったのタスク
+ジェイコブマレーはどうなったのタスク。死んでそうだけど。
 
 * 前哨基地に乗り込む
+    * ゲリラ基地周りはブービートラップが仕掛けられていることが多いので注意
+
 
 ## ラボラットタスク：研究助手III (LAB ASSISTANT III)
 
-硫酸 (Sulfuric Acid) を探す
+硫酸 (Sulfuric Acid) を探す。
+アイテム探しシリーズでは相当見つかりづらい印象がある。
+ミッドナイトサファイアの従業員オフィスでの素湧き、タイガーベイ東部で民兵狩りして集めてました。
+
+
+
+## ターンコート：好きにはさせない (NOT ON MY WATCH)
+
+ハンターズパラダイスで敵を10人倒す。
+
+
 
 ## バンシー：不思議な正義 II (MYSTERIOUS JUSTICE II)
 
