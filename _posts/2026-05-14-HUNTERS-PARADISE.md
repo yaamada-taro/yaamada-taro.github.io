@@ -62,6 +62,12 @@ tags: [日記,ゲーム,Grayzone Warfare]
 [![長老の家1F](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-the-most-dangerous-game-006-bunker.jpg)
 バンカー入り口目安。捜索範囲が謎に広いので山のほうに探索しに行くとひどい目にあいそう
 
+## ガニー：自由の戦士 (FREEDOM FIGHTER)
+
+ジェイコブマレーはどうなったのタスク
+
+* 前哨基地に乗り込む
+
 ## ラボラットタスク：研究助手III (LAB ASSISTANT III)
 
 硫酸 (Sulfuric Acid) を探す
