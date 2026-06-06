@@ -13,6 +13,8 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 軍事部屋にたまに素湧きしているのでマラソン中に集めておきたい軍事品。
 
+
+
 ## ガニー：単刀直入III (NO BULLSHIT III) → 低級火薬 ()
 
 いろいろな所で見かけるのでここでよく見るとかは不明。
@@ -22,8 +24,6 @@ tags: [日記,ゲーム,Grayzone Warfare]
 ## 硫酸、水浄化タブレット
 
 [![硫酸](/assets/images/grayzone-warfare/gw040-taskitem-acid.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-acid.jpg)
-
-
 
 タイガーベイ東側の民兵からドロップすることを確認。バンパ、ブルーラグーンの雑魚もドロップするらしいが未確認。
 また、ミッドナイトサファイアの従業員オフィス内でたまに見かけるのでサファイアマラソンの巡回ルートに追加しておくと硫酸と合わせて見つけやすそう。
@@ -52,6 +52,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 [![水浄化タブレット](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg)
 民兵がたまに持っていたり、バンパ長老部屋1Fの鍵部屋、ミッドナイトサファイア従業員事務所内からの素湧きで確認。
+
 
 
 ## アーチザン：傭兵配達サービス (MERCENARY DELIVERY SERVICE) → ホワイトリチウムグリース (WHITE LITHIUM GREASE)
