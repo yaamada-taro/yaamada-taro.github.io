@@ -139,6 +139,10 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 ## ラボラット：謎の信号VIII (CRYPTIC SIGNALS VIII)
 
+## ターンコート：縁切り (CUTTING TIES)
+
+ナムホウ村周辺の敵を15人倒す。
+
 ## バンシー：カメレオン (CHAMELEON - SIG MCX (GN))
 
 雑誌を回収してバンシーに渡すとMCXのカラーバリエーションを売ってくれるようになる。
