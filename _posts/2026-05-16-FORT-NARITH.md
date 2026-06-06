@@ -149,6 +149,12 @@ A棟で発見したときのスクショ
 [![回収BOX](/assets/images/grayzone-warfare/gw040-task-hustling-the-husler-002-box.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-hustling-the-husler-002-box.jpg)
 ナリス要塞の外に出てBOXに隠す
 
+
+
+## ハンドシェイク：掃討作戦III (COMBAT SWEEP III)
+
+指定された場所を偵察するやつ
+
 ## ガニー：隣人の助け (NEIGHBORLY HELP)
 
 二か所の燃料ゲージ調べる
@@ -203,6 +209,18 @@ A棟で発見したときのスクショ
 
 * 農場納屋のボックスから書類を二つ拾う
 * 拾った書類を指定された場所に配置する
+
+
+
+## ターンコート：空き不動産 ()
+
+ナサカ村、サバンファ村の敵を15人倒す
+
+## ターンコート：家宝 (FAMILY HEIRLOOM)
+
+ターンコートの家に訪問してブリーフケースを持って帰る。
+家に入るには鍵が必要だがタスクを受けると裏庭のどこかに鍵が突然出現することもある。
+たまに鍵が見つからなかったりするのはバグなのか鍵を探し切れていないのか。
 
 ## バンシー：ジェット＆マーキング (JET'N'MARKS)
 
