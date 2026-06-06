@@ -46,6 +46,14 @@ HDDを回収する
 [![ファラン飛行場の日誌](/assets/images/grayzone-warfare/gw040-task-skycrawlers-drug.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-skycrawlers-drug.jpg)
 ターミナル建物内のコンピュータのそばにある日誌を回収
 
+
+
+## ガニー：イナゴ殲滅
+
+ファラン西の敵を10人倒す
+
+
+
 ## ラボラット：謎の信号VI (CRYPTIC SIGNALS VI)
 
 三か所まわるだけ
