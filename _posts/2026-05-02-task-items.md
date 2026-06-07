@@ -70,7 +70,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 燃料容器を納品。
 
-
+[![燃料容器](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-ii-001-item.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-ii-001-item.jpg)
 
 ## アーチザン：傭兵配達サービス III (MERCENARY DELIVERY SERVICE III) → アセチレンボンベ (ACETYLENE CYLINDER)
 
