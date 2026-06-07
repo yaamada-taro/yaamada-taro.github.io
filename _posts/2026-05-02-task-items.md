@@ -74,7 +74,12 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 ## アーチザン：傭兵配達サービス III (MERCENARY DELIVERY SERVICE III) → アセチレンボンベ (ACETYLENE CYLINDER)
 
+[![アセチレンボンベ](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-iii-002-item.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-iii-002-item.jpg)
+
 タイガーベイ西側のボスが出現する工場、タイガーベイモール内の改装中の部屋などで確認。地味に重い。
+
+[![アセチレンボンベ](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-iii-001-location.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-iii-001-location.jpg)
+タイガーベイ西側の倉庫内で素湧きしている様子
 
 ## バンシー：不思議な正義 (MYSTERIOUS JUSTICE) → 観光客の身分証 (TOURIST ID CARD)
 
