@@ -286,19 +286,15 @@ A棟で発見したときのスクショ
 
 [![戦闘機](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg)
 
-## バルチャー：カメレオン - AK-308 (HT) - (CHAMELEON - AK-308 (HT))
+## ガニー：カメレオン - DDM4 (PL) - (CHAMELEON - DDM4 (PL))
 
-監獄エリアの部屋に置いているマガジンを調べる。
-調べた後にもう一度調べることで雑誌を入手することができる。
+序盤からゲームバランスが壊れそうな使い勝手のいいM4が購入出来るようになるチートみたいなタスク。
 
-* 雑誌を回収して報告。
-* バルチャー自体がランダム配置なのでいざ買おうとすると面倒。
-    * バルチャーがどこにいるか毎週更新しているWEBサイトがあったりする
+* 兵舎2F廊下端の雑誌を調べる
+* 雑誌を回収
 
-[![雑誌](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg)
-雑誌を回収する
-
-
+[![雑誌](/assets/images/grayzone-warfare/gw040-task-chameleon-ddm4-pl-001-magazine.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-chameleon-ddm4-pl-001-magazine.jpg)
+兵舎周辺は敵兵士多め
 
 ## ターンコート：王者の貫禄 - ブランのAK-74N (LIKE A BOSS - BURAN'S AK-74N)
 
@@ -319,3 +315,19 @@ A棟で発見したときのスクショ
 
 [![HDD](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-003-hdd.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-burans-ak-74n-003-hdd.jpg)
 フォートナリス本部2Fの指令室でHDDを回収。指令室の入り方がとても分かりにくい。
+
+
+
+## バルチャー：カメレオン - AK-308 (HT) - (CHAMELEON - AK-308 (HT))
+
+監獄エリアの部屋に置いているマガジンを調べる。
+調べた後にもう一度調べることで雑誌を入手することができる。
+
+* 雑誌を回収して報告。
+* バルチャー自体がランダム配置なのでいざ買おうとすると面倒。
+    * バルチャーがどこにいるか毎週更新しているWEBサイトがあったりする
+
+[![雑誌](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-chameleon-ak-308-001-magazine.jpg)
+雑誌を回収する
+
+
