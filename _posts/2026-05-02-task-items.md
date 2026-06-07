@@ -50,6 +50,9 @@ tags: [日記,ゲーム,Grayzone Warfare]
 硫酸がスポーンするエリアと被り気味。
 ミッドナイトサファイアの従業員事務所内の素湧き、タイガーベイ東部の民兵からのドロップなど。
 
+[![水浄化タブレット](/assets/images/grayzone-warfare/gw040-task-lab-assistant-001-office.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-lab-assistant-001-office.jpg)
+ミッドナイトサファイア従業員事務所内からの素湧き
+
 [![水浄化タブレット](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-water-purification-tablets.jpg)
 民兵がたまに持っていたり、バンパ長老部屋1Fの鍵部屋、ミッドナイトサファイア従業員事務所内からの素湧きで確認。
 
