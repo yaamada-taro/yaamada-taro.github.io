@@ -88,6 +88,11 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 
 
+## ハンドシェイク：最終手段 (LAST RESORT)
+
+ボスキルタスク。
+出現エリア全てがマラソンコース上にあるので生きた状態で見つけるのが大変。
+
 ## ハンドシェイク：大切ななくしもの (PRICELESS POSSESSIONS)、ターンコート：ラマンのゴルフスター (LOCAL GOLF STAR)
 
 ゴルフクラブを回収する。
