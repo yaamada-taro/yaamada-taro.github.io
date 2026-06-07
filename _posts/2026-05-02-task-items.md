@@ -19,7 +19,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 いろいろな所で見かけるのでここでよく見るとかは不明。
 
-
+[![低級火薬](/assets/images/grayzone-warfare/gw040-task-no-bullshit-iii-001-item.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-no-bullshit-iii-001-item.jpg)
 
 ## 硫酸、水浄化タブレット
 
