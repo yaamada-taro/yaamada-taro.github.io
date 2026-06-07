@@ -222,6 +222,9 @@ A棟で発見したときのスクショ
 家に入るには鍵が必要だがタスクを受けると裏庭のどこかに鍵が突然出現することもある。
 たまに鍵が見つからなかったりするのはバグなのか鍵を探し切れていないのか。
 
+[![ブリーフケース](/assets/images/grayzone-warfare/gw040-task-family-heirloom-001-case.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-family-heirloom-001-case.jpg)
+2Fベッドの下にあるのですぐそばの拠点に持って帰る
+
 ## バンシー：ジェット＆マーキング (JET'N'MARKS)
 
 タスク承認時に追跡装置をもらえるので現地でタスクを受けると追跡装置を受け取れない。
