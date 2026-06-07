@@ -66,11 +66,11 @@ tags: [日記,ゲーム,Grayzone Warfare]
 
 
 
-## アーチザン：傭兵配達サービス II (MERCENARY DELIVERY SERVICE II) → 燃料容器 (FUEL CANISTER)
+## アーチザン：傭兵配達サービス II (MERCENARY DELIVERY SERVICE II) → 燃料携行缶 (FUEL CANISTER)
 
-燃料容器を納品。
+燃料携行缶を納品。
 
-[![燃料容器](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-ii-001-item.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-ii-001-item.jpg)
+[![燃料携行缶](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-ii-001-item.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-mercenary-delivery-service-ii-001-item.jpg)
 
 ## アーチザン：傭兵配達サービス III (MERCENARY DELIVERY SERVICE III) → アセチレンボンベ (ACETYLENE CYLINDER)
 
