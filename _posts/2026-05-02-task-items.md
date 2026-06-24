@@ -28,6 +28,12 @@ tags: [日記,ゲーム,Grayzone Warfare]
 タイガーベイ東側の民兵からドロップすることを確認。バンパ、ブルーラグーンの雑魚もドロップするらしいが未確認。
 また、ミッドナイトサファイアの従業員オフィス内でたまに見かけるのでサファイアマラソンの巡回ルートに追加しておくと硫酸と合わせて見つけやすそう。
 
+[![硫酸](/assets/images/grayzone-warfare/gw040-taskitem-acid.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-acid-001.jpg)
+ミッドナイトサファイアでのドロップ例その１
+
+[![硫酸](/assets/images/grayzone-warfare/gw040-taskitem-acid.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-acid-002.jpg)
+ミッドナイトサファイアでのドロップ例その２
+
 ## AZART P1 無線機
 
 ![AZART P1 無線機](/assets/images/grayzone-warfare/gw040-taskitem-azartp1.png)
