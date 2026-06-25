@@ -113,7 +113,7 @@ tags: [日記,ゲーム,Grayzone Warfare]
 ## バンシー：不思議な正義VI  (MYSTERIOUS JUSTICE VI) → 暗号化されたハードディスクドライブ (ENCRYPTED HARD DISK DRIVE)
 
 本当に見つからなくて笑う。
-ミッドナイトサファイアのダイアル式金庫から出現を確認。
+ミッドナイトサファイアのダイアル式金庫から出現を確認。金庫にグロック入れんのやめてくれ。
 黒いの(OPERATION DATA ENCRYPTED HARD DISK)と青いの(ENCRYPTED HARD DISK DRIVE)があるけど青い方が対象らしいよ。
 
 [![作戦データ入り暗号化ハードディスク](/assets/images/grayzone-warfare/gw040-mysterious-justice-vi-002-black.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-mysterious-justice-vi-002-black.jpg)
