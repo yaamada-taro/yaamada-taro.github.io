@@ -138,6 +138,8 @@ A棟で発見したときのスクショ
 [![謎電柱](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-007-light.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-seeker-of-change-007-light.jpg)
 おまけの謎電柱
 
+
+
 ## ハンドシェイク：ペテン師に罰を (HUSTLING THE HUSLER)
 
 * 敵兵５人倒す
@@ -155,6 +157,8 @@ A棟で発見したときのスクショ
 
 指定された場所を偵察するやつ
 
+
+
 ## ガニー：隣人の助け (NEIGHBORLY HELP)
 
 二か所の燃料ゲージ調べる
@@ -165,6 +169,8 @@ A棟で発見したときのスクショ
 [![燃料ゲージ](/assets/images/grayzone-warfare/gw040-task-neighborly-help-002-meter.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-neighborly-help-002-meter.jpg)
 すぐ近くに二つ目がある
 
+
+
 ## ガニー：観測任務 (OBSERVATION DUTY)
 
 偵察チームの死体を探して終了
@@ -172,9 +178,19 @@ A棟で発見したときのスクショ
 [![死体](/assets/images/grayzone-warfare/gw040-task-observation-duty-001-deadbody.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-observation-duty-001-deadbody.jpg)
 水たまり脇の死体を確認
 
+
+
+## アーチザン：隠し備蓄品の報告II (II)
+
+備蓄品探し
+
+
+
 ## ラボラット：謎の信号IV (CRYPTIC SIGNALS IV)
 
 測定装置探し
+
+
 
 ## アーチザン：消えた仲間 (MISSING COLLEAGUE)
 
@@ -182,6 +198,8 @@ A棟で発見したときのスクショ
 
 [![逮捕状](/assets/images/grayzone-warfare/gw040-task-missing-colleague-001.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-missing-colleague-001.jpg)
 逮捕状を調べる。すぐそばにアーチザンっぽい肖像画が
+
+
 
 ## アーチザン：消えた仲間II (MISSING COLLEAGUE II)
 
