@@ -237,7 +237,7 @@ A棟で発見したときのスクショ
 [![書庫](/assets/images/grayzone-warfare/gw040-task-a-small-favor-001-room.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-a-small-favor-001-room.jpg)
 FN書庫の鍵が必要
 
-[![シュレッダー](/assets/images/grayzone-warfare/gw040-task-a-small-favor-002.jpg){: width="600"}](/assets/images/gw040-task-a-small-favor-002.jpg)
+[![シュレッダー](/assets/images/grayzone-warfare/gw040-task-a-small-favor-002.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-a-small-favor-002.jpg)
 シュレッダーにかけるとターンコートが喜んでバンシーが怒る
 
 ## バンシー：ジェット＆マーキング (JET'N'MARKS)
