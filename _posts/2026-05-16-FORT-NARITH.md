@@ -225,6 +225,21 @@ A棟で発見したときのスクショ
 [![ブリーフケース](/assets/images/grayzone-warfare/gw040-task-family-heirloom-001-case.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-family-heirloom-001-case.jpg)
 2Fベッドの下にあるのですぐそばの拠点に持って帰る
 
+
+
+## ターンコート：頼み事 (A SMALL FAVOR)、バンシー：ノー・エスケープ (NO ESCAPE)
+
+ターンコートとバンシーの選択式タスク。
+
+* ナリス要塞本部1Fの資料室みたいな部屋で書類を探す。(要鍵：FN書庫)
+* ターンコートを選択するなら書類を同じ部屋内のシュレッダーにかける。
+
+[![書庫](/assets/images/grayzone-warfare/gw040-task-a-small-favor-001-room.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-a-small-favor-001-room.jpg)
+FN書庫の鍵が必要
+
+[![シュレッダー](/assets/images/grayzone-warfare/gw040-task-a-small-favor-002.jpg){: width="600"}](/assets/images/gw040-task-a-small-favor-002.jpg)
+シュレッダーにかけるとターンコートが喜んでバンシーが怒る
+
 ## バンシー：ジェット＆マーキング (JET'N'MARKS)
 
 タスク承認時に追跡装置をもらえるので現地でタスクを受けると追跡装置を受け取れない。
@@ -284,7 +299,7 @@ A棟で発見したときのスクショ
 
 管制塔から書類を回収。渡す対象はターンコートかアーチザン。
 
-[![戦闘機](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg)
+[![書類](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-task-evacuation-question-001-file.jpg)
 
 ## ガニー：カメレオン - DDM4 (PL) - (CHAMELEON - DDM4 (PL))
 
