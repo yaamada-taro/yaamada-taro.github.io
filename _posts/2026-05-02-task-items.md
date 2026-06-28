@@ -125,3 +125,5 @@ tags: [日記,ゲーム,Grayzone Warfare]
 オレンジっぽい色をした書類。
 軍事品が湧くエリアでよく見かけるのでミッドナイトサファイア本館3Fの軍事部屋なりタイガーベイモールの軍事部屋をマラソンすると見つけやすい。
 
+[![ワンタイムパッド用紙](/assets/images/grayzone-warfare/gw040-taskitem-onte-time-pad-key-sheet.jpg){: width="600"}](/assets/images/grayzone-warfare/gw040-taskitem-onte-time-pad-key-sheet.jpg)
+タイガーベイモール2Fの軍事部屋での素湧き
